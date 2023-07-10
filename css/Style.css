@@ -1,0 +1,90 @@
+h2 { 
+   color: black;
+}
+
+.logo-img {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  max-width: 130px; 
+  height: 70px;
+  padding-right: 30px;
+  opacity: 0.5;
+  }
+.heading{
+text-align: center;
+font-style: Trebuchet MS;
+position: relative; 
+font: bold;
+text-align: center;
+}
+.text3{
+  font-style: italic;
+  text-align: center;
+}
+
+
+.table{
+	padding-right:550px;
+	border-collapse: collapse;
+  margin-bottom: auto;
+	
+
+}
+.third{
+	margin: "30%";
+	padding:"50%";
+}
+
+.text {
+ color: red; 
+ text-align: center;
+ font-family: Trebuchet MS;
+   
+}
+.form-container {
+  max-width: 500px;
+  margin: 0 auto;
+  padding: 20px;
+  left: 800px;
+  width: 150px;
+  height: 150px;
+  border: 1px solid #ccc;
+  background-color: #f9f9f9;
+  position: absolute;
+  top: 0;
+  right: 0;
+  margin-top: 150px;
+
+}
+.height-table {
+  height: 200px; /* Adjust the height value as needed */
+}
+.height-table2
+{
+  height: 50px;
+}
+
+.vertical-align {
+  writing-mode: vertical-lr;
+  transform: rotate(-180deg);
+  padding: 20px;
+}
+.text2{
+  color: red;
+  font-style: italic;
+}
+.big-paragraph {
+  font-size: 14px;
+  line-height: 1.8;
+  text-align: left;
+
+}
+.yesno{
+margin-left: 960;
+
+padding-right: 100px;
+}
+
+
+
